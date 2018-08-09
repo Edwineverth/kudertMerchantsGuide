@@ -1,0 +1,19 @@
+{
+  "name": "merchantguide",
+  "version": "1.0.0",
+  "description": "Solution of the Kudert Merchant's Guide",
+  "main": "kudertMerchantsGuide.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edwineverth/kudertMerchantsGuide.git"
+  },
+  "author": "Edwin Belduma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edwineverth/kudertMerchantsGuide/issues"
+  },
+  "homepage": "https://github.com/Edwineverth/kudertMerchantsGuide#readme"
+}
